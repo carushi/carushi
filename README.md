@@ -1,6 +1,7 @@
-- 👋 @carushi
-- 👀 Occupation: Researcher (computational biology, bioinformatics, machine learning, and biostatistics)
-- 🌱 Current project: multi-omics analysis and image analysis
+👋 Greetings from @carushi
+- 👀 Occupation: Researcher
+  - Computational biology, Bioinformatics, Machine learning, and Biostatistics
+- 🌱 Current projects: multi-omics analysis and image analysis
 
 ## Projects
 * RNA secondary structure prediction
