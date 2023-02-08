@@ -2,6 +2,7 @@
 - 👀 Occupation: Researcher
   - Computational biology, Bioinformatics, Machine learning, and Biostatistics
 - 🌱 Current projects: multi-omics analysis and image analysis
+- 🌐 Lab website: https://carushi.github.io/cb_lab/
 
 ## Projects
 * RNA secondary structure prediction
