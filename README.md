@@ -4,6 +4,8 @@
 - 🌱 Current projects: multi-omics analysis and image analysis
 - 🌐 Lab website: https://carushi.github.io/cb_lab/
 
+![carushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=carushi&show_icons=true)
+
 ## Projects
 * RNA secondary structure prediction
   * [ParasoR](https://github.com/carushi/ParasoR)
@@ -20,7 +22,3 @@
 * GUI database search
   * [GoMADScan](https://github.com/carushi/GoMADScan)
 
-<!---
-carushi/carushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
